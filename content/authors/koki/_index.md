@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Vera Schmitt
+title: Koki Isshiki
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Doktorandin am Quality & Usability Lab Technische Universität Berlin
+role: Bachelorstudent and der Technischen Universität und Freien Universität Berlin
 
 # Organizations/Affiliations
 organizations:
-- name: Technische UNiversität Berlin
+- name: Technische Universität Berlin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
