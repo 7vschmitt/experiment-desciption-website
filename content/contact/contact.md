@@ -17,16 +17,16 @@ content:
   autolink: true
   
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+   # provider: netlify
+    #formspree:
+     # id:
+    #netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+     # captcha: false
 
 design:
   columns: '1'
 ---
 
-Bei Fragen, Feedback oder Anregungen melden Sie sich gerne jederzeit an Vera Schmitt. 
+Bei Fragen, technischen Problemen oder Feedback wenden Sie sich gerne jederzeit an Vera Schmitt. 
