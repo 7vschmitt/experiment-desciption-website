@@ -3,7 +3,7 @@ title:  Datenschutzinformationen
 #date: 2020-12-02
 ---
 
-Datenerhebung
+
 Bei dieser Studie werden personenbezogene Daten erhoben, wie Standortdaten und Fragebögen. Ihre Daten werden ausschließlich zu wissenschaftlichen Zwecken genutzt und nur anonymisiert gespeichert. Sie können jederzeit die Löschung Ihrer Daten mit dem persönlichen Code, den Sie zu Beginn der Studie erstellt haben, beantragen. Wenn Sie sich an den Code nicht mehr erinnern, senden wir Ihnen die Fragen zu, die Sie zur Generierung Ihres Codes beantworten. 
  Wenn Sie hier klicken erhalten Sie weitere Informationen zum Datenschutz. 
 
