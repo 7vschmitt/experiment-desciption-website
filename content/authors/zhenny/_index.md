@@ -6,7 +6,7 @@ title: Zhenni Li
 superuser: false
 
 # Role/position
-role: Masterstudentin an der Freien Universität und Hilfswissenschaftler an der Technischen Universität Berlin
+role: Masterstudentin und Hilfswissenschaftlerin an der Technischen Universität Berlin
 
 # Organizations/Affiliations
 organizations:
