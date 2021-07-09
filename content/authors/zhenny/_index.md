@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhenny Li
+title: Zhenni Li
 
 # Is this the primary user of the site?
 superuser: false
