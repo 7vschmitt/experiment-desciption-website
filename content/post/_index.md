@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Informationen zum Ablauf des Experiments
 
 # View.
 #   1 = List
