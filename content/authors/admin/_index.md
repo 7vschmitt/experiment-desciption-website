@@ -6,7 +6,7 @@ title: Vera Schmitt
 superuser: true
 
 # Role/position
-role: Doktorandin am Quality & Usability Lab Technische Universität Berlin (vera.schmitt@tu-berlin.de)
+role: Doktorandin am Quality & Usability Lab Technische Universität Berlin (vera.schmitt [@] tu-berlin.de)
 
 # Organizations/Affiliations
 organizations:
