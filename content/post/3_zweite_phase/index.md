@@ -21,6 +21,6 @@ Wenn Sie die App installieren werden Sie aufgefordert Ihren **Standort** zu **te
 
 **Tägliche Kurzumfragen:** Die **Kurzumfragen** werden **aufgerufen**, wenn Sie einen **Standort** auswählen. Hier können Sie die Fragen mit einem Slider beantworten. Bei manchen Iphone Versionen müssen Sie einmal kurz auf den **Slider tippen**, um eine Auswahl treffen zu können. Sie erhalten jeden Abend eine **Erinnerung**, vier Standorte pro Tag zu bewerten. Sie können ganz flexibel zu jeder Tageszeit Ihre Standorte bewerten, wenn Sie auf dem Arbeitsweg sind oder eine kleine Pause machen, auf die Standortfragebögen können Sie jederzeit zugreifen.
 
-**Standorteinstellung:** Nach **3 Tagen** wird ein **Einstellungsfeld oben rechts**** erscheinen. Dieses können Sie nutzen, um das Tracking der Standortdaten zu deaktivieren**, oder die Genauigkeit zu verändern. Hier können Sie Ihren **Standort verschleiern** indem Sie die **Genauigkeit zwischen 0 und 1000 Metern verändern** können. 
+**Standorteinstellung:** Nach **3 Tagen** wird ein **Einstellungsfeld oben rechts** erscheinen. Dieses können Sie nutzen, um das **Tracking der Standortdaten zu deaktivieren**, oder die Genauigkeit zu verändern. Hier können Sie Ihren **Standort verschleiern** indem Sie die **Genauigkeit zwischen 0 und 1000 Metern verändern** können. 
 
 **Anleitung:** Innerhalb der App gibt es **rechts unten** das Feld **„Anleitung“**. Wenn Sie nicht genau wissen, was Sie in der App tun sollen, oder die **Kontaktinformationen der Versuchsleiterin** benötigen, können Sie alle **Informationen** dort aufrufen. 
