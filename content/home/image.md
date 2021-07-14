@@ -23,6 +23,8 @@ design:
     image_parallax: false
     image_position: right
     image_size: contain
+    width: 50px
+    hight: 100px
     text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
