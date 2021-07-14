@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Bei Fragen, technischen Problemen oder Feedback wenden Sie sich gerne jederzeit an Vera Schmitt. 
+Bei Fragen, technischen Problemen oder Feedback wenden Sie sich gerne jederzeit an Vera Schmitt. Bei rechtlichen Fragen oder Fragen ethischer Natur wenden Sie sich bitte an Prof. Möller. 
