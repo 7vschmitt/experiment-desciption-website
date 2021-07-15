@@ -3,7 +3,7 @@
 title: Musawar Ahmed
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Masterstudent an der Technische Universität Berlin
