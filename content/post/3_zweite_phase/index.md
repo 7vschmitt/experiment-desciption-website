@@ -2,7 +2,7 @@
 title: Zweite Phase iOS App
 date: 2021-07-10
 ---
-In der zweiten Pase der Studie **installieren Sie eine App**, die nur für den Zweck dieses Experiments entwickelt wurde. Diese App wird über den Zeitraum von **sechs Tagen** Ihre **Standorte** speichern und Ihnen auf einer interaktiven **Karten- und Listenansicht** anzeigen. Ihre Aufabe ist es **vier kleine Fragebögen pro Tag** zu den unterschiedlichen **Standorten** zu beantworten. Hierzu klicken Sie entweder in der Kartenansicht auf einen der roten Standortpins, den Sie gerne auswerten möchten und beantworten die Fragen, die Ihnen danach angezeigt werden. Wenn Sie die Listenansicht Ihrer Standorte bevorzugen, können Sie einfach auf eine der angezeigten Adressen klicken und der Fragebogen wird aufgerufen. Die Aufgabe ist es vier unterschiedliche Standorte des aktuellen Tages zu bewerten. Haben Sie Ihren Standort jedoch nicht gewechselt, können Sie auch Standorte der Vortage auswählen. **Klicken Sie hier, um mehr über den genauen Studienverlauf zu erfahren.** 
+In der zweiten Pase der Studie **installieren Sie eine App**, die nur für den Zweck dieses Experiments entwickelt wurde. Diese App wird über den Zeitraum von **sechs Tagen** Ihre **Standorte** speichern und Ihnen auf einer interaktiven **Karten- und Listenansicht** anzeigen. Ihre Aufabe ist es **vier kleine Fragebögen pro Tag** zu den unterschiedlichen **Standorten** zu beantworten. Hierzu klicken Sie entweder in der Kartenansicht auf einen der roten Standortpins, den Sie gerne auswerten möchten und beantworten die Fragen, die Ihnen danach angezeigt werden. Wenn Sie die Listenansicht Ihrer Standorte bevorzugen, können Sie einfach auf eine der angezeigten Adressen klicken und der Fragebogen wird aufgerufen. Die Aufgabe ist es vier unterschiedliche Standorte des aktuellen Tages zu bewerten. Haben Sie Ihren Standort jedoch nicht gewechselt, können Sie auch Standorte der Vortage auswählen. **Klicken Sie hier, um mehr über den genauen Studienverlauf und den Installationsprozess zu erfahren.** 
 
 <!--more-->
 
@@ -11,8 +11,8 @@ Die App können Sie über **TestFlight** herunterladen. Da die App sich noch in 
 **Installation:** Zunächst bitten wir Sie **TestFlight** zu **installieren**. TestFlight wird verwendet, um Beta-Versionen von Apps testen zu können bevor sie in den Apple App Store hochgeladen werden. Gehen Sie hierzu zum App Store, geben Sie TestFlight ein und installieren Sie TestFlight (Beta-Testen leicht gemacht). Wenn Sie TestFlight installiert haben, klicken Sie bitte auf den Link, der unten angegeben ist, um die App zu installieren. Die App sollte Ihnen dann in Testflight angezeigt werden. 
 
 
-Mit folgendem **Link** können Sie nun die App **„LocationValuation“ installieren:** https://testflight.apple.com/join/X8dg5o7S. 
-Wenn Sie die App installieren, werden Sie aufgefordert Ihren **Standort beim Verwenden der App** zu **teilen**. **Wir bitten Sie den Standort für die nächsten sechs Tage freizugeben**, da sonst die **Funktionalitäten der App eingeschränkt sind**. Danach werden Sie gefragt, ob die App Ihnen **Mitteilungen** senden darf, wir bitten Sie auch dies für den Zweck der Studie zu aktivieren. 
+Wenn Sie TestFlight installiert haben, können Sie nun mit folgendem **Link** die App **„LocationValuation“ installieren** installieren: https://testflight.apple.com/join/X8dg5o7S. 
+Wenn Sie die App installieren, werden Sie aufgefordert Ihren **Standort beim Verwenden der App** zu **teilen**. **Wir bitten Sie den Standort für die nächsten sechs Tage freizugeben**, da sonst die **Funktionalitäten der App eingeschränkt sind**. Danach werden Sie gefragt, ob die App Ihnen **Mitteilungen** senden darf, wir bitten Sie auch dies für den Zweck der Studie zu **aktivieren**. 
 
 **Aufgabe:** In den nächsten sechs Tagen ist Ihre Aufgabe **vier kleine Fragebögen pro Tag** zu den unterschiedlichen **Standorten zu beantworten**. 
 
