@@ -8,11 +8,10 @@ In der zweiten Pase der Studie **installieren Sie eine App**, die nur für den Z
 
 Die App können Sie über **TestFlight** herunterladen. Da die App sich noch in der **Testphase** befindet, ist ein Ziel dieser Studie, die Funktionalitäten weiter zu überprüfen.
 
-**Installation:** Zunächst bitten wir Sie **TestFlight** zu **installieren**. TestFlight wird verwendet, um Beta-Versionen von Apps testen zu können bevor sie in den Apple App Store hochgeladen werden. Gehen Sie hierzu zum App Store, geben Sie TestFlight ein und installieren Sie TestFlight (Beta-Testen leicht gemacht). Wenn Sie TestFlight installiert haben, klicken Sie bitte auf den Link, der unten angegeben ist, um die App zu installieren. Die App sollte Ihnen dann in Testflight angezeigt werden. 
+**Installation:** Zunächst bitten wir Sie **TestFlight** zu **installieren**. TestFlight wird verwendet, um Beta-Versionen von Apps testen zu können bevor sie in den Apple App Store hochgeladen werden. Gehen Sie hierzu zum App Store, geben Sie TestFlight ein und installieren Sie TestFlight (Beta-Testen leicht gemacht). Unter folgenden Link wird Ihnen die TestFlight App angezeigt: https://apple.co/2TdyHrC.
 
-
-Wenn Sie TestFlight installiert haben, können Sie nun mit folgendem **Link** die App **„LocationValuation“ installieren** installieren: https://testflight.apple.com/join/X8dg5o7S. 
-Wenn Sie die App installieren, werden Sie aufgefordert Ihren **Standort beim Verwenden der App** zu **teilen**. **Wir bitten Sie den Standort für die nächsten sechs Tage freizugeben**, da sonst die **Funktionalitäten der App eingeschränkt sind**. Danach werden Sie gefragt, ob die App Ihnen **Mitteilungen** senden darf, wir bitten Sie auch dies für den Zweck der Studie zu **aktivieren**. 
+Wenn Sie TestFlight installiert haben, können Sie nun mit folgendem **Link** die App **„LocationValuation“ installieren**: https://testflight.apple.com/join/X8dg5o7S. 
+Wenn Sie die App installieren, werden Sie aufgefordert Ihren **Standort beim Verwenden der App** zu **teilen**. **Wir bitten Sie den Standort für die nächsten sechs Tage freizugeben**, da sonst die **Funktionalitäten der App eingeschränkt sind**. Danach werden Sie gefragt, ob die App Ihnen **Mitteilungen** senden darf, wir bitten Sie auch dies für den Zweck der Studie zu **aktivieren**. Wenn Ihnen keine Standorte angezeigt werden, bitten wir Sie in den Einstellungen den Standrt **immer** für die App freizugeben. 
 
 **Aufgabe:** In den nächsten sechs Tagen ist Ihre Aufgabe **vier kleine Fragebögen pro Tag** zu den unterschiedlichen **Standorten zu beantworten**. 
 
@@ -24,3 +23,7 @@ Wenn Sie die App installieren, werden Sie aufgefordert Ihren **Standort beim Ver
 **Standorteinstellung:** Nach **3 Tagen** wird ein **Einstellungsfeld oben rechts** erscheinen. Dieses können Sie nutzen, um das **Tracking der Standortdaten zu deaktivieren**, oder die Genauigkeit zu verändern. Hier können Sie Ihren **Standort verschleiern** indem Sie die **Genauigkeit zwischen 0 und 1000 Metern verändern** können. 
 
 **Anleitung:** Innerhalb der App gibt es **rechts unten** das Feld **„Anleitung“**. Wenn Sie nicht genau wissen, was Sie in der App tun sollen, oder die **Kontaktinformationen der Versuchsleiterin** benötigen, können Sie alle **Informationen** dort aufrufen. 
+
+**Abschluss der Studie:** Am siebten Tag der Studie wird der Abschlussfragebogen aufgerufen, sobald Sie die App öffnen. Wenn Sie diesen Fragebogen ausgefüllt haben, ist die Studie beendet. Danach können Sie sich ausloggen und die App wieder deinstallieren. Wenn Sie täglich vier Standorte oder vier Mal den gleichen Standort ausgewertet und am Abschlussfragebogen teilgenommen haben, zahlen wir Ihnen weitere 17 Euro aus.  
+
+**Vielen Dank für Ihre Teilnahme an dem „Standortdaten Experiment“!**
