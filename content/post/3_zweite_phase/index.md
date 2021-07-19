@@ -26,4 +26,6 @@ Wenn Sie die App installieren, werden Sie aufgefordert Ihren **Standort beim Ver
 
 **Abschluss der Studie:** Am siebten Tag der Studie wird der Abschlussfragebogen aufgerufen, sobald Sie die App öffnen. Wenn Sie diesen Fragebogen ausgefüllt haben, ist die Studie beendet. Danach können Sie sich ausloggen und die App wieder deinstallieren. Wenn Sie täglich vier Standorte oder vier Mal den gleichen Standort ausgewertet und am Abschlussfragebogen teilgenommen haben, zahlen wir Ihnen weitere 17 Euro aus.  
 
+**Probleme mit Abschlussumfrage:** Im Falle, dass der Abschlussfragebogen angezeigt wird, die App aber abstürzt, können Sie auch den Abschlussfragebogen unter folgendem Link ausfüllen: https://forms.gle/LqU5xj8QRvsbwUEe8. Bitte geben Sie hierzu am Anfang Ihren persönlichen Code ein (die Anleitung zur Generierung finden Sie in dem online Abschlussfragebogen).
+
 **Vielen Dank für Ihre Teilnahme an dem „Standortdaten Experiment“!**
