@@ -5,7 +5,7 @@ date: 2021-07-10
 Die **App** wurde ausschließlich für den Zweck der Studie entwickelt. Die App können Sie über **TestFlight** herunterladen. Da die App sich noch in der **Testphase** befindet, ist ein Ziel dieser Studie, die Funktionalitäten weiter zu überprüfen.
 
 **Installation:** 
-Zunächst bitten wir Sie **TestFlight** zu **installieren**. TestFlight wird verwendet, um Beta-Versionen von Apps testen zu können bevor sie in den Apple App Store hochgeladen werden. Unter folgenden Link wird Ihnen die TestFlight App angezeigt: https://apple.co/2TdyHrC.
+Zunächst bitten wir Sie **TestFlight** zu **installieren**. TestFlight wird verwendet, um Beta-Versionen von Apps testen zu können bevor sie in den Apple App Store hochgeladen werden. Unter folgenden **Link** wird Ihnen die TestFlight App angezeigt: https://apple.co/2TdyHrC.
 
 Wenn Sie TestFlight installiert haben, können Sie nun mit folgendem **Link** die App **„LocationValuation“ installieren**: https://testflight.apple.com/join/X8dg5o7S. 
 
