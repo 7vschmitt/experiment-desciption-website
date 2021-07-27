@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-Die Studie wird durch die **Technische Universität Berlin** am Fachgebiet **Quality and Usability Lab** durchgeführt. Ziel der Studie ist es,Kenntnisse über den Wert von Standortdaten zu erlangen. 
+Die Studie wird durch die **Technische Universität Berlin** am Fachgebiet **Quality and Usability Lab** durchgeführt. Ziel der Studie ist es, Kenntnisse über den Wert von Standortdaten zu erlangen. 
